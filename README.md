@@ -109,8 +109,12 @@ An interactive dashboard presents the results visually, with filters for subscri
 
 ## About Me
 
-**Doly Das** — Assistant Manager with about 8 years of experience in credit risk, asset quality and MIS reporting. Skilled in Advanced Excel, Power BI, SQL and Python.
+Doly Das | Credit Risk & MIS Reporting Professional
+Assistant Manager with 8+ years of experience in credit risk, asset quality and MIS reporting. Skilled in Advanced Excel, Power BI, SQL and Python.
+Open to: Data Analyst and MIS Reporting roles in UAE banking
 
-- GitHub: [dolydas977-cpu](https://github.com/dolydas977-cpu)
-- LinkedIn: [add your LinkedIn link here](https://www.linkedin.com/in/your-name)
+Connect: 
+
+- GitHub: https://github.com/dolydas977-cpu
+- LinkedIn: https://www.linkedin.com/in/doly-das-3a95bb129/
 
